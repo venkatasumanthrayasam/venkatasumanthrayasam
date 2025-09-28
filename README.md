@@ -37,17 +37,26 @@
 
 ---
 
+---
 ### Projects
 
-#### 1. Hand Digit Recognition System
-<p>Developed and optimized a deep learning-based digit recognition system with 98%+ accuracy, integrating real-time prediction and visualization to enhance model interpretability and user interaction.</p>
-- **Technologies Used**: TensorFlow, Keras, Python, Tkinter, MNIST, Matplotlib, Pandas, NumPy
-- **Repository**: [https://github.com/venkatasumanthrayasam/Hand-Digit-Recognition-System](https://github.com/venkatasumanthrayasam/Hand-Digit-Recognition-System)
+<details>
+  <summary><b>1. Hand Digit Recognition System</b></summary>
+  <p>Developed and optimized a deep learning-based digit recognition system with 98%+ accuracy, integrating real-time prediction and visualization to enhance model interpretability and user interaction.</p>
+  <ul>
+    <li><b>Technologies Used:</b> TensorFlow, Keras, Python, Tkinter, Matplotlib, Pandas, NumPy</li>
+    <li><b>Repository:</b> <a href="https://github.com/venkatasumanthrayasam/Hand-Digit-Recognition-System">Hand Digit Recognition System</a></li>
+  </ul>
+</details>
 
-#### 2. Phishing Detect
-<p>A web-based tool for phishing detection.</p>
-- **Tools Used**: Python, HTML, CSS, JavaScript, Pandas, NumPy
-- **Repository**: [https://github.com/venkatasumanthrayasam/Phishing-detect](https://github.com/venkatasumanthrayasam/Phishing-detect)
+<details>
+  <summary><b>2. Phishing Detect</b></summary>
+  <p>A web-based tool for phishing detection.</p>
+  <ul>
+    <li><b>Tools Used:</b> Python, HTML, CSS, JavaScript, Pandas, NumPy</li>
+    <li><b>Repository:</b> <a href="https://github.com/venkatasumanthrayasam/Phishing-detect">Phishing Detect</a></li>
+  </ul>
+</details>
 
 ---
 
