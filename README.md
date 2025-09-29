@@ -2,6 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/79963248?v=4" width="150px" alt="Profile Picture"/>
   <h1>Venkata Sumanth Rayasam</h1>
   <p>Final-year student specializing in AI & ML with a passion for learning and technology.</p>
+  <p> Visit my <a href="https://venkatasumanthrayasam.github.io">Portfolio</a></p>
 </div>
 
 <div align="center">
