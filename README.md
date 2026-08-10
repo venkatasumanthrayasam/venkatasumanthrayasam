@@ -15,13 +15,6 @@ Aspiring **ML Engineer** and **Backend Developer** — building practical AI/ML 
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rvsumanth&show_icons=true&hide_border=true&theme=default" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvsumanth&layout=compact&hide_border=true&theme=default" /></td>
-  </tr>
-</table>
-
 ![Streak Stats](https://streak-stats.demolab.com/?user=rvsumanth&hide_border=true&theme=default)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rvsumanth&hide_border=true&theme=minimal)
