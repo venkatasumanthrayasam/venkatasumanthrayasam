@@ -1,6 +1,6 @@
 # Venkata Sumanth Rayasam
 
-Aspiring **ML Engineer** and **Backend Developer** — building practical AI/ML solutions and data-driven applications.
+_Aspiring **ML Engineer** and **Backend Developer** _
 
 ---
 
