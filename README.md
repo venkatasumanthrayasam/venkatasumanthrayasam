@@ -1,6 +1,6 @@
 # Venkata Sumanth Rayasam
 
-_Aspiring **ML Engineer** and **Backend Developer** _
+*Aspiring **ML Engineer** and **Backend Developer** *
 
 ---
 
