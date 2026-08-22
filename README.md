@@ -1,7 +1,7 @@
 # Venkata Sumanth Rayasam
 
 *Aspiring **ML Engineer** and **Backend Developer** *
-
+![Profile Views](https://komarev.com/ghpvc/?username=rvsumanth&color=blue&style=flat)
 ---
 
 ## Technical Skills i have
